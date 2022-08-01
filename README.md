@@ -13,7 +13,13 @@
 <p align="left">
 <a href="https://web.facebook.com/profile.php?id=100081629926793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdur rahman" height="30" width="40" /></a>
 </p>
-<p align="left">
+
+
+<p align="right">
+<a href="https://www.linkedin.com/in/md-abdur-rahman-8a1645240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="abdur rahman" height="30" width="40" /></a>
+</p>
+
+<p align="right">
 <a href="https://twitter.com/AbdurRahmanMe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdur rahman" height="30" width="40" /></a>
 </p>
 
